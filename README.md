@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🏆 My Certifications
+
+Here are some of the professional certifications I have earned.
+
+| Certificate | Details |
+|:---:|---|
+| <a href="http://verify.certiport.com:dSXw-uTCL"><img src="AzureAIFundamentals.pdf" alt="Azure AI Fundamentals Certificate" width="250"/></a> | **[Microsoft Certified: Azure AI Fundamentals](http://verify.certiport.com:dSXw-uTCL)**<br>Issued by: Microsoft<br>Date: November 30, 2024<br>Verification Code: `dSXw-uTCL` |
+| <img src="accenture.pdf" alt="Data Analytics and Visualization Certificate" width="250"/> | **Data Analytics and Visualization Job Simulation**<br>Issued by: Accenture (via Forage)<br>Date: July 17, 2024 |
