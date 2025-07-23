@@ -21,14 +21,11 @@ Here are some ideas to get you started:
 
 Here are some of the professional certifications I have earned.
 
-| Certificate | Description & Skills |
+|   | Description & Skills |
 |:---:|---|
 | <a href="http://verify.certiport.com:dSXw-uTCL"><img src="AzureAIFundamentals.pdf" alt="Azure AI Fundamentals Certificate" width="280"/></a> | **[Microsoft Certified: Azure AI Fundamentals](http://verify.certiport.com:dSXw-uTCL)**<br><br>This certification validates foundational knowledge of:<br><ul><li>Artificial Intelligence (AI) and Machine Learning (ML) concepts.</li><li>Azure services for AI, such as Azure Cognitive Services, Azure Machine Learning, and Azure Bot Services.</li></ul><br>_Issued: Nov 2024_    _Verification Code: `dSXw-uTCL`_ |
-| <img src="accenture.pdf" alt="Data Analytics and Visualization Certificate" width="280"/> | **Accenture: Data Analytics & Visualization Job Simulation**<br><br>In this simulation, I performed the role of a Data Analyst at Accenture, advising a social media client by:<br><ul><li>Cleaning, modeling, and analyzing 7 datasets to uncover content trends.</li><li>Preparing and presenting a PowerPoint deck with key insights for client and internal stakeholders.</li></ul><br>_Issued via Forage: Jul 2024_ |
+| <img src="accenture.pdf" alt="Data Analytics and Visualization Certificate" width="280"/> | **Accenture: Data Analytics & Visualization Job Simulation**<br><br>In this simulation, I performed the role of a Data Analyst at Accenture, advising a social media client by:<br><ul><li>Cleaning, modeling, and analyzing 7 datasets to uncover content trends.</li><li>Preparing and presenting a PowerPoint deck with key insights for stakeholders.</li></ul><br>_Issued via Forage: Jul 2024_ |
+| <div style="font-size: 50px">✅</div> | **[Introduction to Generative AI](https://www.cloudskillsboost.google/public_profiles/ae20d0a3-97ba-4f79-8e82-fcc0b2047cd4 )**<br><br>An introductory microlearning course explaining what Generative AI is, how it is used, how it differs from traditional machine learning methods, and an overview of Google Tools for developing Gen AI apps.<br><br>_Issued by Google Cloud_ |
+| <div style="font-size: 50px">✅</div> | **[Introduction to Data Analytics on Google Cloud](https://www.cloudskillsboost.google/public_profiles/ae20d0a3-97ba-4f79-8e82-fcc0b2047cd4 )**<br><br>A beginner-level course covering the data analytics workflow on Google Cloud. Using a case study, it demonstrates how to go from raw data to clean datasets and create impactful visualizations and dashboards.<br><br>_Issued by Google Cloud_ |
 
-### 🎓 Google Cloud Skill Badges
-
-You can view and verify my completed skill badges on my **[Google Cloud Skills Boost Public Profile](https://www.cloudskillsboost.google/public_profiles/ae20d0a3-97ba-4f79-8e82-fcc0b2047cd4 )**.
-
--   ✅ Introduction to Generative AI
--   ✅ Introduction to Data Analytics on Google Cloud
+---
