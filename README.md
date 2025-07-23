@@ -1,5 +1,4 @@
 ## Hi there 👋
-I am Anagha B G, currently pursuing a BBA in Business Analytics from Mount Carmel College, Bangalore. 
 I'm a Business Analytics student at Mount Carmel College, Bangalore, passionate about turning data into actionable insights. With hands-on experience in data analytics, sales, and real-world simulations, I enjoy solving business problems using data-driven decision-making
 
 <!--
